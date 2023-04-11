@@ -37,3 +37,6 @@ sudo sh./VBoxLinuxAdditions.run --nox11
 ```shell
 sudo shutdown -r now
 ```
+Depois de reiniciar a máquina, o tamanho da tela será ajustado de acordo. No entanto, funcionará perfeitamente bem agora.
+
+Agora você pode alternar facilmente para a tela cheia e trabalhar com facilidade em sua máquina virtual Linux.
