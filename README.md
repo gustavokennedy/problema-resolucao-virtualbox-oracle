@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/98914036/231028523-e8a0c3fe-f8b1-43e7-82e7-81b8904b5d6a.png" width="150px">
+<img src="https://user-images.githubusercontent.com/98914036/231028523-e8a0c3fe-f8b1-43e7-82e7-81b8904b5d6a.png" width="250px">
 # Problema de resolução no VirtualBox Oracle com Ubuntu Server
 Resolução do problema de resolução com VirtualBox em Ubuntu Server 22.04.2.
 
