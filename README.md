@@ -10,7 +10,7 @@ Passos:
 ### 1. Instalar alguns pacotes necessários para a instalação do Guest Addition Image:
 
 ```shell
-sudo apt install build-essential dkms linux-headers-$ ( uname -r )
+sudo apt install build-essential dkms linux-headers-$(uname -r)
 ```
 
 ### 2. Clique em “Dispositivos” na barra de menu da máquina virtual e selecione “Inserir imagem de CD de adição de convidado” no menu “Dispositivos”:
